@@ -12,10 +12,10 @@ Contact Vanilla Forums Inc. at support [at] vanillaforums [dot] com
  * An associative array of information about this application.
  */
 $ThemeInfo['default'] = array(
-   'Name' => '+Baseline',
-   'Description' => "The default theme for Vanilla. This theme's purpose is to give the bare-minimum of styling on everything except the forum contents. Our goal is for you to take this theme and customize it by adding your own header & footer.",
+   'Name' => 'Crowdrooster',
+   'Description' => "The default theme for Vanilla. Customised by Crowdrooster",
    'Version' => APPLICATION_VERSION,
-   'Author' => "Mark O'Sullivan",
-   'AuthorEmail' => 'mark@vanillaforums.com',
-   'AuthorUrl' => 'http://markosullivan.ca'
+   'Author' => "Nick Horrocks",
+   'AuthorEmail' => 'nick.horrocks@crowdrooster.com',
+   'AuthorUrl' => 'http://crowdrooster.com'
 );

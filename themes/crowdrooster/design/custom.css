@@ -166,10 +166,10 @@ a {
 a:hover,
 a.TextColor:hover,
 a:hover .TextColor {
-   color: #ff0084;
+   color: #ff4337;
 }
 a.TextColor, a .TextColor {
-   color: black;
+   color: #ff4337;
 }
 img.Thumbnail {
 	max-height: 300px;
